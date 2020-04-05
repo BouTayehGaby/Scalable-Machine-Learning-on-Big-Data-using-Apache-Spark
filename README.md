@@ -2,7 +2,7 @@
 
 **NB: This repository is created for Learning purposes**
 
-This repositery will cover the follwowing :
+This repository will cover the follwowing :
 - gain a practical understanding of Apache Spark, and apply it to solve machine learning problems involving both small and big data
 - understand how parallel code is written, capable of running on thousands of CPUs. 
 - make use of large scale compute clusters to apply machine learning algorithms on Petabytes of data using Apache SparkML Pipelines. 
