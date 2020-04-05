@@ -1,7 +1,6 @@
 # Scalable-Machine-Learning-on-Big-Data-using-Apache-Spark
-Using Apache Spark to build Scalable Machine Learning on Big Data
 
-NB: **This repository is created for Learning purposes**
+**NB: This repository is created for Learning purposes**
 
 This repositery will cover the follwowing :
 - gain a practical understanding of Apache Spark, and apply it to solve machine learning problems involving both small and big data
@@ -12,9 +11,9 @@ This repositery will cover the follwowing :
 - run SQL statements on very large data sets using Apache SparkSQL and the Apache Spark DataFrame API.
 
 Prerequisites:
-- basic python programming
-- basic machine learning 
-- basic SQL skills for optional content
+- basic Python programming
+- basic Machine Learning 
+- basic SQL skills
 
 If the reader is interested in Learning all of this, please purshase the course at the following link: 
 https://www.coursera.org/learn/machine-learning-big-data-apache-spark?
